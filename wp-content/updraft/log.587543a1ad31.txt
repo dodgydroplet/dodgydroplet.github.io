@@ -1,0 +1,271 @@
+0000.000 (0) Opened log file at time: Thu, 29 Feb 2024 04:50:04 +0000 on http://localhost/dodgydroplet.github.io
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.1 WP: 6.4.3 PHP: 8.2.12 (apache2handler, Windows NT DESKTOP-FNIDLT9 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 52.7M | 56M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 504902.7 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.012 (0) Semaphore (fd, wp_options) being initialised
+0000.018 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.023 (0) Set semaphore last lock (fd) time to 2024-02-29 04:50:04
+0000.025 (0) Semaphore lock (fd) complete
+0000.030 (0) Backup run: resumption=0, nonce=587543a1ad31, file_nonce=587543a1ad31 begun at=1709182204 (0s ago), job type=backup
+0000.033 (0) Scheduling a resumption (1) after 300 seconds (1709182504) in case this run gets aborted
+0000.043 (0) Checking if we have a zip executable available
+0000.047 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.048 (0) Creation of backups of directories: beginning
+0000.055 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.129 (0) Total entities for the zip file: 764 directories, 4160 files (0 skipped as non-modified), 78.4 MB
+0001.142 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 80324.8 KB, split: 409600 KB)
+0001.171 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.199 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.226 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.253 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.281 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.308 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.335 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.363 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.390 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.417 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.445 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0001.473 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0001.500 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0001.527 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0001.554 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0001.580 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0001.608 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0001.635 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0001.662 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0001.689 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0001.716 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0001.742 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0001.770 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0001.797 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0001.824 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0001.851 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0001.878 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0001.905 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0001.933 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0001.961 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0001.987 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0002.014 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0002.041 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0002.068 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0002.096 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0002.123 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0002.150 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0002.177 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0002.206 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0002.234 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0002.262 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0037.343 (0) Creating zip file manifest (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.list-temp.tmp)
+0037.361 (0) Successfully created zip file manifest (size: 338875)
+0037.500 (0) Created plugins zip (0) - 22523.9 KB in 37.4 s (601.6 KB/s) (sha1: 6332678f654d62b1ca87a06644aa22143d48cafb, sha256: 66f641ffe14dd41372a6260f0e600291841f4c9b95892ea1f7a8dfbb0e47b6da)
+0037.509 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0037.511 (0) No remote despatch: user chose no remote backup service
+0037.513 (0) Recording as successfully uploaded: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip
+0037.516 (0) Deleting zip manifest (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip.list.tmp)
+0037.521 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0037.523 (0) Number of backup sets in history: 0; groups (db): 1
+0037.524 (0) Number of backup sets in history: 0; groups (files): 1
+0037.526 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0037.540 (0) Beginning creation of dump of themes (split every: 400 MB)
+0037.601 (0) Total entities for the zip file: 28 directories, 241 files (0 skipped as non-modified), 9.5 MB
+0037.603 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 9778.9 KB, split: 409600 KB)
+0037.631 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0037.658 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0038.323 (0) Creating zip file manifest (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-themes.zip.list-temp.tmp)
+0038.327 (0) Successfully created zip file manifest (size: 17207)
+0038.388 (0) Created themes zip (0) - 8920 KB in 0.8 s (10588 KB/s) (sha1: b19809857adcec2b9f01ca46ede301c8ce04b6d6, sha256: c84c2da6910359e45e3cf9c4994c8d8459479341e5916e20fec586eb2f1dc632)
+0038.394 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0038.396 (0) No remote despatch: user chose no remote backup service
+0038.398 (0) Recording as successfully uploaded: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-themes.zip
+0038.401 (0) Deleting zip manifest (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-themes.zip.list.tmp)
+0038.404 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0038.406 (0) Number of backup sets in history: 0; groups (db): 1
+0038.407 (0) Number of backup sets in history: 0; groups (files): 1
+0038.409 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0038.416 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0038.418 (0) Looking for candidates to backup in: C:\xampp\htdocs\dodgydroplet.github.io/wp-content/uploads
+0038.419 (0) finding files: 2024: adding to list (1)
+0038.421 (0) finding files: elementor: adding to list (2)
+0038.422 (0) finding files: simply-static: adding to list (3)
+0038.424 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0038.554 (0) Total entities for the zip file: 106 directories, 447 files (0 skipped as non-modified), 32.7 MB
+0038.556 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 33493.5 KB, split: 409600 KB)
+0038.584 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0038.611 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0038.643 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0038.671 (0) Zip: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0041.858 (0) Creating zip file manifest (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-uploads.zip.list-temp.tmp)
+0041.863 (0) Successfully created zip file manifest (size: 64015)
+0041.939 (0) Created uploads zip (0) - 11710.6 KB in 3.5 s (3335.9 KB/s) (sha1: 09b7e3c9d108bbaa40077839348fe1c93f3e55be, sha256: c04893d08e17046cb08eb1479bcf825c18ebbdd2fb635f66af5614411165a708)
+0041.946 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0041.947 (0) No remote despatch: user chose no remote backup service
+0041.949 (0) Recording as successfully uploaded: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-uploads.zip
+0041.953 (0) Deleting zip manifest (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-uploads.zip.list.tmp)
+0041.956 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0041.958 (0) Number of backup sets in history: 0; groups (db): 1
+0041.960 (0) Number of backup sets in history: 0; groups (files): 1
+0041.961 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0041.967 (0) No backup of mu-plugins: excluded by user's options
+0041.970 (0) Beginning backup of other directories found in the content directory (index: 0)
+0041.971 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0041.973 (0) Looking for candidates to backup in: C:\xampp\htdocs\dodgydroplet.github.io/wp-content
+0041.974 (0) finding files: index.php: adding to list (1)
+0041.976 (0) finding files: plugins: skipping: this is the plugins directory
+0041.977 (0) finding files: themes: skipping: this is the themes directory
+0041.978 (0) finding files: updraft: skipping: this is the updraft directory
+0041.980 (0) finding files: upgrade: skipping: excluded by options
+0041.981 (0) finding files: upgrade-temp-backup: adding to list (2)
+0041.982 (0) finding files: uploads: skipping: this is the uploads directory
+0041.988 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0041.990 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0041.999 (0) Creating zip file manifest (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-others.zip.list-temp.tmp)
+0042.001 (0) Successfully created zip file manifest (size: 43)
+0042.009 (0) Created others zip (0) - 0.4 KB in 0 s (17.6 KB/s) (sha1: 0ffd0f083794971de40f6a4f879f20db16bbc87d, sha256: 6633ada42dbd340d2affc4a772e3b72b30ee1e808ac7a42497a83ca8497b622a)
+0042.013 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0042.015 (0) No remote despatch: user chose no remote backup service
+0042.016 (0) Recording as successfully uploaded: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-others.zip
+0042.023 (0) Deleting zip manifest (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-others.zip.list.tmp)
+0042.026 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0042.028 (0) Number of backup sets in history: 0; groups (db): 1
+0042.029 (0) Number of backup sets in history: 0; groups (files): 1
+0042.031 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0042.042 (0) Saving backup status to database (elements: 8)
+0042.045 (0) Beginning creation of database dump (WordPress DB)
+0042.046 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0042.083 (0) Table wp_options: Total expected rows (via COUNT): 268
+0042.085 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.139 (0) Table wp_options: Rows added in this batch (next record: 578): 264 (uncompressed bytes in this segment=2460069) in 0.08 seconds
+0042.148 (0) Table wp_options: finishing file(s) (2, 423.2 KB)
+0042.155 (0) Table wp_users: Total expected rows (via COUNT): 1
+0042.157 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.160 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1189) in 0.01 seconds
+0042.167 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0042.175 (0) Table wp_usermeta: Total expected rows (via COUNT): 43
+0042.177 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.181 (0) Table wp_usermeta: Rows added in this batch (next record: 48): 43 (uncompressed bytes in this segment=5400) in 0.01 seconds
+0042.189 (0) Table wp_usermeta: finishing file(s) (2, 2.3 KB)
+0042.199 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0042.202 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.01 seconds
+0042.211 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0042.217 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0042.221 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1466) in 0.01 seconds
+0042.227 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0042.234 (0) Table wp_links: Total expected rows (via COUNT): 0
+0042.236 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.00 seconds
+0042.243 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0042.275 (0) Table wp_postmeta: Total expected rows (via COUNT): 707
+0042.276 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.301 (0) Table wp_postmeta: Rows added in this batch (next record: 1193): 707 (uncompressed bytes in this segment=1941202) in 0.05 seconds
+0042.310 (0) Table wp_postmeta: finishing file(s) (2, 107.2 KB)
+0042.329 (0) Table wp_posts: Total expected rows (via COUNT): 132
+0042.330 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.346 (0) Table wp_posts: Rows added in this batch (next record: 201): 132 (uncompressed bytes in this segment=755787) in 0.03 seconds
+0042.354 (0) Table wp_posts: finishing file(s) (2, 78.5 KB)
+0042.360 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0042.364 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 10 (uncompressed bytes in this segment=822) in 0.01 seconds
+0042.371 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0042.380 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 5
+0042.381 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.384 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1022) in 0.01 seconds
+0042.392 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0042.402 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0042.405 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.01 seconds
+0042.414 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0042.420 (0) Table wp_terms: Total expected rows (via COUNT): 5
+0042.421 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.424 (0) Table wp_terms: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=804) in 0.01 seconds
+0042.431 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0042.438 (0) Table wp_e_events: Total expected rows (via COUNT): 1
+0042.440 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.441 (0) Table wp_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=773) in 0.01 seconds
+0042.448 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0042.455 (0) Table wp_simply_static_pages: Total expected rows (approximate): 3510
+0042.512 (0) Table wp_simply_static_pages: Rows added in this batch (next record: 10807): 3633 (uncompressed bytes in this segment=1362799) in 0.06 seconds
+0042.519 (0) Table wp_simply_static_pages: finishing file(s) (2, 55.8 KB)
+0042.527 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 8
+0042.529 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.532 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 12): 8 (uncompressed bytes in this segment=7584) in 0.01 seconds
+0042.541 (0) Table wp_yoast_indexable: finishing file(s) (2, 1.9 KB)
+0042.546 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 5
+0042.550 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 5 (uncompressed bytes in this segment=875) in 0.01 seconds
+0042.557 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0042.564 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0042.566 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.569 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1234) in 0.01 seconds
+0042.576 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0042.584 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0042.586 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=829) in 0.01 seconds
+0042.593 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0042.600 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 17
+0042.602 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.605 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 50): 17 (uncompressed bytes in this segment=3358) in 0.01 seconds
+0042.612 (0) Table wp_yoast_seo_links: finishing file(s) (2, 1 KB)
+0042.613 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\dodgydroplet.github.io/wp-content/updraft/backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db.gz (line 1925, C:\xampp\htdocs\dodgydroplet.github.io\wp-content\plugins\updraftplus\backup.php)
+0042.616 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_options.table.tmpr579.gz (1/19/fopen): adding to final database dump
+0042.626 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_options.table.gz (2/19/fopen): adding to final database dump
+0042.628 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_users.table.tmpr2.gz (3/19/fopen): adding to final database dump
+0042.630 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_users.table.gz (4/19/fopen): adding to final database dump
+0042.632 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_usermeta.table.tmpr49.gz (5/19/fopen): adding to final database dump
+0042.633 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_usermeta.table.gz (6/19/fopen): adding to final database dump
+0042.635 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_commentmeta.table.tmpr0.gz (7/19/fopen): adding to final database dump
+0042.637 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_commentmeta.table.gz (8/19/fopen): adding to final database dump
+0042.638 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_comments.table.tmpr0.gz (9/19/fopen): adding to final database dump
+0042.640 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_comments.table.gz (10/19/fopen): adding to final database dump
+0042.641 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_links.table.tmpr0.gz (11/19/fopen): adding to final database dump
+0042.643 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_links.table.gz (12/19/fopen): adding to final database dump
+0042.644 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_postmeta.table.tmpr1194.gz (13/19/fopen): adding to final database dump
+0042.648 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_postmeta.table.gz (14/19/fopen): adding to final database dump
+0042.650 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_posts.table.tmpr202.gz (15/19/fopen): adding to final database dump
+0042.653 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_posts.table.gz (16/19/fopen): adding to final database dump
+0042.655 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_term_relationships.table.tmpr100001.gz (17/19/fopen): adding to final database dump
+0042.656 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_term_relationships.table.gz (18/19/fopen): adding to final database dump
+0042.658 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_term_taxonomy.table.tmpr6.gz (19/19/fopen): adding to final database dump
+0042.659 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_term_taxonomy.table.gz (20/19/fopen): adding to final database dump
+0042.661 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_termmeta.table.tmpr0.gz (21/19/fopen): adding to final database dump
+0042.662 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_termmeta.table.gz (22/19/fopen): adding to final database dump
+0042.664 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_terms.table.tmpr6.gz (23/19/fopen): adding to final database dump
+0042.665 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_terms.table.gz (24/19/fopen): adding to final database dump
+0042.667 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_e_events.table.tmpr2.gz (25/19/fopen): adding to final database dump
+0042.669 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_e_events.table.gz (26/19/fopen): adding to final database dump
+0042.670 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_simply_static_pages.table.tmpr10808.gz (27/19/fopen): adding to final database dump
+0042.673 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_simply_static_pages.table.gz (28/19/fopen): adding to final database dump
+0042.674 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_indexable.table.tmpr13.gz (29/19/fopen): adding to final database dump
+0042.676 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_indexable.table.gz (30/19/fopen): adding to final database dump
+0042.677 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (31/19/fopen): adding to final database dump
+0042.679 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_indexable_hierarchy.table.gz (32/19/fopen): adding to final database dump
+0042.681 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_migrations.table.tmpr25.gz (33/19/fopen): adding to final database dump
+0042.682 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_migrations.table.gz (34/19/fopen): adding to final database dump
+0042.684 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_primary_term.table.tmpr0.gz (35/19/fopen): adding to final database dump
+0042.685 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_primary_term.table.gz (36/19/fopen): adding to final database dump
+0042.687 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_seo_links.table.tmpr51.gz (37/19/fopen): adding to final database dump
+0042.688 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db-table-wp_yoast_seo_links.table.gz (38/19/fopen): adding to final database dump
+0042.697 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db.gz: finished writing out complete database file (675.7 KB)
+0042.715 (0) Total database tables backed up: 19 (backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db.gz, size: 691994, sha1: 06e992b59dc5f73b697e653cf37dd25958873160, sha256: 941b387068cf4a1d6e6889f156fe9a154811eef37e17316f84d454f7c0f8a6df)
+0042.722 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-plugins.zip: plugins: This file has already been successfully uploaded
+0042.723 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-themes.zip: themes: This file has already been successfully uploaded
+0042.724 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-uploads.zip: uploads: This file has already been successfully uploaded
+0042.726 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-others.zip: others: This file has already been successfully uploaded
+0042.727 (0) backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db.gz: db: This file has not yet been successfully uploaded: will queue
+0042.728 (0) Saving backup history. Total backup size: 42.8 MB
+0042.731 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0042.736 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0042.737 (0) No remote despatch: user chose no remote backup service
+0042.738 (0) Recording as successfully uploaded: backup_2024-02-29-0450_Dodgy_Droplet_587543a1ad31-db.gz
+0042.743 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0042.744 (0) Number of backup sets in history: 1; groups (db): 1
+0042.746 (0) Examining (for databases) backup set with group_id=0, nonce=587543a1ad31, datestamp=1709182204 (Feb 29 2024 04:50:04)
+0042.748 (0) This backup set is the backup set just made, so will not be deleted.
+0042.748 (0) Number of backup sets in history: 1; groups (files): 1
+0042.749 (0) Examining (for files) backup set with nonce=587543a1ad31, datestamp=1709182204 (Feb 29 2024 04:50:04)
+0042.749 (0) This backup set is the backup set just made, so will not be deleted.
+0042.750 (0) This backup set is the backup set just made, so will not be deleted.
+0042.750 (0) This backup set is the backup set just made, so will not be deleted.
+0042.750 (0) This backup set is the backup set just made, so will not be deleted.
+0042.750 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0042.752 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0042.755 (0) Resume backup (587543a1ad31, 0): finish run
+0042.758 (0) Decremented the semaphore (fd) by 1
+0042.761 (0) Semaphore (fd) unlocked
+0042.762 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0042.767 (0) No email will/can be sent - the user has not configured an email address.
+0042.769 (0) The backup succeeded and is now complete
